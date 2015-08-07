@@ -7,7 +7,7 @@ class String
       false
     end
   end
-  #return split_words
 end
 
-#remeber to add the .count() after the .split()
+# if true need to be able to be able to .count() those words- will return to this if there is time
+#selected_words = []
