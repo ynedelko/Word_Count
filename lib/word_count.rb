@@ -1,5 +1,7 @@
 class String
   define_method(:word_count) do |word|
+    downcase!
+    word.downcase!
     split_words = self.split()
     if split_words.include?(word)
       true
