@@ -11,4 +11,3 @@ class String
 end
 
 #remeber to add the .count() after the .split()
-#return split_words
