@@ -14,7 +14,7 @@ require('word_count')
 #end
 
 describe('String#word_count') do
-  it ("checks to see if your word is included in your String") do
-    expect(("take small steps").word_count("take")).to(eq(true))
+  it("checks to see if your word is included in your String") do
+    expect("take small steps".word_count("take")).to(eq(true))
   end
 end
