@@ -2,7 +2,13 @@ require('rspec')
 require('word_count')
 
 describe('String#word_count') do
-  it ("counts the number of words in a String") do
-    expect(("take small steps")).word_count()).to(eq(3))
+  it ("turns the words in a String into an array") do
+    expect(("take small steps").word_count()).to(eq(["take","small","steps"]))
   end
 end
+
+#describe('String#word_count') do
+  #it ("counts the number of words in a String") do
+    #expect(("take small steps").word_count()).to(eq(3))
+  #end
+#end
