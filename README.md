@@ -10,7 +10,7 @@ _The goal of the assignment was to create a website that uses a method and an ar
 
 ## Link to Heroku
 
-_You can see the site live here: https://agile-beach-9584.herokuapp.com/
+_You can see the site live here: https://agile-beach-9584.herokuapp.com/_
 
 ## Setup
 
