@@ -1,12 +1,12 @@
-# _{Word Count}_
+# _Word Count_
 
-##### _{First Code Review for Epicodus: Ruby BDD/Sinatra}, {08.07.15}_
+##### _First Code Review for Epicodus: Ruby BDD/Sinatra, 08.07.15_
 
-#### By _**{Yelena Nedelko}**_
+#### By _**Yelena Nedelko**_
 
 ## Description
 
-_{The goal of the assignment was to create a website that uses a method and an argument to return how frequently a word appears in a given string. However, I was unable to figure out the code to return the frequency, however I did figure out how to test whether a word existing in a given string. Therefore this program simply tests whether or not the word appears in a given string and returns "true" or "false."}_
+_The goal of the assignment was to create a website that uses a method and an argument to return how frequently a word appears in a given string. However, I was unable to figure out the code to return the frequency, however I did figure out how to test whether a word existing in a given string. Therefore this program simply tests whether or not the word appears in a given string and returns "true" or "false."_
 
 ## Setup
 
@@ -23,7 +23,7 @@ _{The goal of the assignment was to create a website that uses a method and an a
 
 ### Legal
 
-Copyright (c) 2015 **_{Yelena Nedelko}_**
+Copyright (c) 2015 **_Yelena Nedelko_**
 
 This software is licensed under the MIT license.
 
