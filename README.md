@@ -8,6 +8,10 @@
 
 _The goal of the assignment was to create a website that uses a method and an argument to return how frequently a word appears in a given string. I was unable to figure out the code to return the frequency, however I did figure out how to test whether a word existing in a given string. Therefore this program simply tests whether or not the word appears in a given string and returns "true" or "false."_
 
+## Link to Heroku
+
+_You can see the site live here: https://agile-beach-9584.herokuapp.com/
+
 ## Setup
 
 * _clone this repository_
